@@ -1,0 +1,11 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "data stuctures",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juans",
+  "license": "MIT"
+}
